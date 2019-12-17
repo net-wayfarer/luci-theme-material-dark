@@ -1,7 +1,8 @@
 Material For LUCI
 =================
 
-Material is a clean HTML5 theme for LuCI - the web configuration interface commonly found on OpenWrt installation. It is based on luci-theme-bootstrap and MUI
+Material is a clean HTML5 theme for LuCI - the web configuration interface commonly found on OpenWrt installation. It is based on luci-theme-bootstrap and MUI.
+This is a Dark Material theme based on original Material theme by [LuttyYang](https://github.com/LuttyYang/luci-theme-material). With some modifications as noted in [gist](https://gist.github.com/net-wayfarer/20c30ea96da5d45aab700559a66d6db9).
 
 
 Bug tracker
@@ -9,13 +10,19 @@ Bug tracker
 
 Have a bug? Please create an issue here on GitHub!
 
+https://github.com/net-wayfarer/luci-theme-material-dark/issues
+
+Alternatively, if your issue is with the theme itself, please create an issue upstream instead
+
 https://github.com/LuttyYang/luci-theme-material/issues
 
 
 Authors
 -------
+https://github.com/net-wayfarer
 
-**Lutty Yang**
+
+**Lutty Yang** - Original author
 
 + https://github.com/LuttyYang
 
